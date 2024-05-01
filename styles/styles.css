@@ -11,8 +11,16 @@ header {
 	height: 54px;
 }
 
+.footer {
+	margin: 0 auto;
+	width: 100%;
+	padding-top: 21px;
+}
+
 main {
-	padding-left: 137px;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1400px;
 	padding-top: 21px;
 }
 
@@ -100,7 +108,7 @@ nav p {
 
 .borders {
 	display: inline-block;
-	margin-right: 65px;
+	margin-right: 153px;
 }
 
 .h2 {
@@ -137,16 +145,16 @@ nav p {
 
 .forest {
 	display: inline-block;
-	float: right;
+	vertical-align: top;
+	margin-left: 164px;
 }
 
-.photo2 {
-	margin-right: 300px;
-}
+
 
 .photo3 {
 	width: 792px;
     height: 451px;
+    margin-bottom: 36px;
 }
 
 .elephent, .city {
@@ -155,4 +163,45 @@ nav p {
 
 .elephent, .city, .photo2 {
 	margin-bottom: 105px;
+}
+
+.footer {
+	height: 150px;
+	background-color: #243043;
+}
+
+.footer p {
+	font-size: 12px;
+	font-weight: 700;
+	font-family: roboto, sans-serif;
+	color: #818687;
+}
+
+.footer {
+	padding-top: 59px;
+	padding-left: 138px;
+}
+
+.firstside p {
+	margin-bottom: 14px;
+}
+
+.firstside {
+	display: inline-block;
+	margin-right: 75px;
+}
+
+
+.geolablogo {
+	z-index: 1;
+}
+
+.logo2 {
+	display: inline-block;
+	float: right;
+	margin-right: 300px;
+}
+
+.borders1 {
+	display: inline-block;
 }
