@@ -1,0 +1,67 @@
+body {
+	background-color: #F1F1F1;
+}
+header, main {
+	padding-left: 137px;
+	padding-top: 21px;
+}
+
+nav {
+	display: inline-block;
+}
+
+nav p {
+	font-size: 11px;
+	font-weight: 700;
+	font-family: roboto, sans-serif;
+	display: inline-block;
+	margin-right: 35px;
+}
+
+.logo1 {
+	vertical-align: middle;
+}
+
+
+h1 {
+	font-size: 24px;
+	font-weight: 700;
+	font-family: roboto, sans-serif;
+	margin-top: 21px;
+}
+
+.banner3 {
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.card {
+	margin-top: 27px;
+	position: relative;
+}
+
+.card p {
+	position: absolute;
+	display: inline-block;
+	left: 41px;
+	top: 32px;
+	font-size: 20px;
+	font-weight: 700;
+	font-family: roboto, sans-serif;
+	color: #FFFFFF;
+}
+
+.banner3text {
+	font-size: 10px;
+	font-weight: 700;
+	font-family: roboto, sans-serif;
+	color: #8A8787;
+}
+
+.cardbottom {
+	width: 362px;
+	height: 171px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	background-color: #FFFFFF;
+}
